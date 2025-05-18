@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E9BBEA7C-6E20-4433-991C-07A3F39EAEF7}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>FadakPortfolioWeb</RootNamespace>
+    <AssemblyName>FadakPortfolioWeb</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="html\about.html" />
+    <Content Include="html\contact.html" />
+    <Content Include="html\images\1QamarMoon1.png" />
+    <Content Include="html\images\background %281%29.jpg" />
+    <Content Include="html\images\background %283%29.jpg" />
+    <Content Include="html\images\background %282%29.jpg" />
+    <Content Include="html\images\background %284%29.jpg" />
+    <Content Include="html\images\BBBathrooms.jpg" />
+    <Content Include="html\images\BBBloodBlooms.jpg" />
+    <Content Include="html\images\BBGraveYard1.jpg" />
+    <Content Include="html\images\BBLivingRoom.jpg" />
+    <Content Include="html\images\BBlogoBANNER.png" />
+    <Content Include="html\images\BBlogoLightBloomPNG.png" />
+    <Content Include="html\images\BBMissingDet.jpg" />
+    <Content Include="html\images\BBOffice.jpg" />
+    <Content Include="html\images\BBSigilCropped.png" />
+    <Content Include="html\images\BloodBloom.jpg" />
+    <Content Include="html\images\BloodBloomBG.jpg" />
+    <Content Include="html\images\browncursor.png" />
+    <Content Include="html\images\brownpointer.png" />
+    <Content Include="html\images\cursorbrown.png" />
+    <Content Include="html\images\QamarGame.png" />
+    <Content Include="html\images\QAMARScene.png" />
+    <Content Include="html\images\QamarShooting.png" />
+    <Content Include="html\index.html" />
+    <Content Include="html\project1.html" />
+    <Content Include="html\project2.html" />
+    <Content Include="html\projects.html" />
+    <Content Include="html\style.css" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

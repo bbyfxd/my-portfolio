@@ -1,0 +1,125 @@
+﻿/* Body and General Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Cinzel', serif;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    cursor: url('images/browncursor.png'), auto;
+}
+
+/* Background */
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('images/background (4).jpg') no-repeat center center fixed, #282828; /* Fallback color */
+    background-size: cover;
+    filter: blur(8px);
+    z-index: -1;
+}
+
+/* Navigation Bar Styling */
+nav {
+    background-color: #4a3628;
+    padding: 10px 0;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    font-family: 'Cinzel', serif;
+    border-bottom: 2px solid #d1a15c;
+}
+
+    nav ul {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+    }
+
+        nav ul li {
+            margin: 0 20px;
+        }
+
+            nav ul li a {
+                color: #fdf6e3;
+                text-decoration: none;
+                font-weight: bold;
+                padding: 8px 12px;
+                transition: background-color 0.3s ease, color 0.3s ease;
+                border-radius: 8px;
+            }
+
+                nav ul li a:hover {
+                    background-color: #e0c097;
+                    color: #3c2f2f;
+                    text-decoration: underline;
+                }
+
+/* Content Styling */
+.content {
+    position: relative;
+    padding: 2rem;
+    margin-top: 60px; /* Space for fixed navbar */
+    background-color: #4a3628; /* Rich, vintage brownish color */
+    color: #e0c097; /* Soft light cream color for text, complementary to the background */
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 5rem auto;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Subtle shadow for depth */
+    border: 1px solid #d1a15c; /* Goldish border to add an elegant, vintage touch */
+    opacity: 0;
+    animation: fadeIn 1.5s forwards;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+/* Label Box Styling */
+.label-box {
+    background-color: rgba(249, 233, 196, 0.85); /* Creamy parchment color with slight transparency */
+    padding: 2rem;
+    border: 2px solid #d3c6a3; /* Muted gold border */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
+    max-width: 800px;
+    margin: 0 auto;
+    z-index: 2;
+    position: relative;
+    color: #2a1e17; /* Deep brown for good contrast */
+    font-family: 'Cinzel', serif;
+    backdrop-filter: blur(2px); /* Slight extra polish */
+}
+
+/* Heading Styling */
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+p {
+    font-size: 1.2rem;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); /* Light shadow for depth */
+}
+a, button {
+    cursor: url('images/brownpointer.png') 4 12, pointer;
+}
+body.qamar-page {
+    background-image: url('images/QAMARScene.png'); /* change path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

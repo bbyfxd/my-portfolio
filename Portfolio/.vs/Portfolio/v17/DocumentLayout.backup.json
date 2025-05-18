@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fadak\\source\\repos\\Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BBEA7C-6E20-4433-991C-07A3F39EAEF7}|FadakPortfolioWeb\\FadakPortfolioWeb.csproj|c:\\users\\fadak\\source\\repos\\portfolio\\fadakportfolioweb\\html\\project1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9BBEA7C-6E20-4433-991C-07A3F39EAEF7}|FadakPortfolioWeb\\FadakPortfolioWeb.csproj|solutionrelative:fadakportfolioweb\\html\\project1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BBEA7C-6E20-4433-991C-07A3F39EAEF7}|FadakPortfolioWeb\\FadakPortfolioWeb.csproj|c:\\users\\fadak\\source\\repos\\portfolio\\fadakportfolioweb\\html\\project2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9BBEA7C-6E20-4433-991C-07A3F39EAEF7}|FadakPortfolioWeb\\FadakPortfolioWeb.csproj|solutionrelative:fadakportfolioweb\\html\\project2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BBEA7C-6E20-4433-991C-07A3F39EAEF7}|FadakPortfolioWeb\\FadakPortfolioWeb.csproj|c:\\users\\fadak\\source\\repos\\portfolio\\fadakportfolioweb\\html\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9BBEA7C-6E20-4433-991C-07A3F39EAEF7}|FadakPortfolioWeb\\FadakPortfolioWeb.csproj|solutionrelative:fadakportfolioweb\\html\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BBEA7C-6E20-4433-991C-07A3F39EAEF7}|FadakPortfolioWeb\\FadakPortfolioWeb.csproj|c:\\users\\fadak\\source\\repos\\portfolio\\fadakportfolioweb\\html\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E9BBEA7C-6E20-4433-991C-07A3F39EAEF7}|FadakPortfolioWeb\\FadakPortfolioWeb.csproj|solutionrelative:fadakportfolioweb\\html\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BBEA7C-6E20-4433-991C-07A3F39EAEF7}|FadakPortfolioWeb\\FadakPortfolioWeb.csproj|c:\\users\\fadak\\source\\repos\\portfolio\\fadakportfolioweb\\html\\projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9BBEA7C-6E20-4433-991C-07A3F39EAEF7}|FadakPortfolioWeb\\FadakPortfolioWeb.csproj|solutionrelative:fadakportfolioweb\\html\\projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BBEA7C-6E20-4433-991C-07A3F39EAEF7}|FadakPortfolioWeb\\FadakPortfolioWeb.csproj|c:\\users\\fadak\\source\\repos\\portfolio\\fadakportfolioweb\\html\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9BBEA7C-6E20-4433-991C-07A3F39EAEF7}|FadakPortfolioWeb\\FadakPortfolioWeb.csproj|solutionrelative:fadakportfolioweb\\html\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BBEA7C-6E20-4433-991C-07A3F39EAEF7}|FadakPortfolioWeb\\FadakPortfolioWeb.csproj|c:\\users\\fadak\\source\\repos\\portfolio\\fadakportfolioweb\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9BBEA7C-6E20-4433-991C-07A3F39EAEF7}|FadakPortfolioWeb\\FadakPortfolioWeb.csproj|solutionrelative:fadakportfolioweb\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\Users\\fadak\\source\\repos\\Portfolio\\FadakPortfolioWeb\\html\\contact.html",
+              "RelativeDocumentMoniker": "FadakPortfolioWeb\\html\\contact.html",
+              "ToolTip": "C:\\Users\\fadak\\source\\repos\\Portfolio\\FadakPortfolioWeb\\html\\contact.html",
+              "RelativeToolTip": "FadakPortfolioWeb\\html\\contact.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-01T00:38:16.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "project2.html",
+              "DocumentMoniker": "C:\\Users\\fadak\\source\\repos\\Portfolio\\FadakPortfolioWeb\\html\\project2.html",
+              "RelativeDocumentMoniker": "FadakPortfolioWeb\\html\\project2.html",
+              "ToolTip": "C:\\Users\\fadak\\source\\repos\\Portfolio\\FadakPortfolioWeb\\html\\project2.html",
+              "RelativeToolTip": "FadakPortfolioWeb\\html\\project2.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-01T00:38:06.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "project1.html",
+              "DocumentMoniker": "C:\\Users\\fadak\\source\\repos\\Portfolio\\FadakPortfolioWeb\\html\\project1.html",
+              "RelativeDocumentMoniker": "FadakPortfolioWeb\\html\\project1.html",
+              "ToolTip": "C:\\Users\\fadak\\source\\repos\\Portfolio\\FadakPortfolioWeb\\html\\project1.html",
+              "RelativeToolTip": "FadakPortfolioWeb\\html\\project1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-01T00:37:54.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "projects.html",
+              "DocumentMoniker": "C:\\Users\\fadak\\source\\repos\\Portfolio\\FadakPortfolioWeb\\html\\projects.html",
+              "RelativeDocumentMoniker": "FadakPortfolioWeb\\html\\projects.html",
+              "ToolTip": "C:\\Users\\fadak\\source\\repos\\Portfolio\\FadakPortfolioWeb\\html\\projects.html",
+              "RelativeToolTip": "FadakPortfolioWeb\\html\\projects.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-01T00:37:40.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "about.html",
+              "DocumentMoniker": "C:\\Users\\fadak\\source\\repos\\Portfolio\\FadakPortfolioWeb\\html\\about.html",
+              "RelativeDocumentMoniker": "FadakPortfolioWeb\\html\\about.html",
+              "ToolTip": "C:\\Users\\fadak\\source\\repos\\Portfolio\\FadakPortfolioWeb\\html\\about.html",
+              "RelativeToolTip": "FadakPortfolioWeb\\html\\about.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-01T00:37:20.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\fadak\\source\\repos\\Portfolio\\FadakPortfolioWeb\\html\\style.css",
+              "RelativeDocumentMoniker": "FadakPortfolioWeb\\html\\style.css",
+              "ToolTip": "C:\\Users\\fadak\\source\\repos\\Portfolio\\FadakPortfolioWeb\\html\\style.css",
+              "RelativeToolTip": "FadakPortfolioWeb\\html\\style.css",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAtwHUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-01T00:32:55.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\fadak\\source\\repos\\Portfolio\\FadakPortfolioWeb\\html\\index.html",
+              "RelativeDocumentMoniker": "FadakPortfolioWeb\\html\\index.html",
+              "ToolTip": "C:\\Users\\fadak\\source\\repos\\Portfolio\\FadakPortfolioWeb\\html\\index.html",
+              "RelativeToolTip": "FadakPortfolioWeb\\html\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-01T00:31:18.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

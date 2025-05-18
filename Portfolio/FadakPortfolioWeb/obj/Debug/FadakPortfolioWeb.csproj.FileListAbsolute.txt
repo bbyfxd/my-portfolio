@@ -1,0 +1,2 @@
+C:\Users\fadak\source\repos\Portfolio\FadakPortfolioWeb\obj\Debug\FadakPortfolioWeb.csproj.AssemblyReference.cache
+C:\Users\fadak\source\repos\Portfolio\FadakPortfolioWeb\obj\Debug\FadakPortfolioWeb.csproj.CoreCompileInputs.cache
